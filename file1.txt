@@ -3,3 +3,4 @@ file1 line 2
 file1 line 3
 file1 line 4
 file1 line 5 in new_bb
+LINE 6
